@@ -1281,132 +1281,132 @@ DELAWARE,Viola,149,0
 DELAWARE,Wilmington,"71,958",811
 DELAWARE,Wyoming,"1,926",11
 DISTRICT OF COLUMBIA,Washington,"702,250","6,502"
-FLORIDA3,Altamonte Springs,"44,956",153
-FLORIDA3,Apopka,"60,583",261
-FLORIDA3,Arcadia,"7,986",41
-FLORIDA3,Astatula,"2,107",4
-FLORIDA3,Atlantic Beach,"13,079",21
-FLORIDA3,Auburndale,"21,677",47
-FLORIDA3,Aventura,"38,317",63
-FLORIDA3,Bartow,"20,948",103
-FLORIDA3,Bay Harbor Islands,"5,610",2
-FLORIDA3,Belleair,"4,568",1
-FLORIDA3,Belleair Beach,"1,612",1
-FLORIDA3,Belleair Bluffs,"2,277",4
-FLORIDA3,Belle Glade,"16,880",224
-FLORIDA3,Belleview,"5,881",25
-FLORIDA3,Blountstown,"2,275",8
-FLORIDA3,Boca Raton,"100,557",172
-FLORIDA3,Bowling Green,"2,464",1
-FLORIDA3,Boynton Beach,"81,473",340
-FLORIDA3,Bradenton,"57,503",258
-FLORIDA3,Brooksville,"10,086",43
-FLORIDA3,Casselberry,"31,166",88
-FLORIDA3,Clewiston,"7,212",11
-FLORIDA3,Cocoa,"20,235",219
-FLORIDA3,Coral Springs,"135,157",185
-FLORIDA3,Crescent City,"1,709",1
-FLORIDA3,Crestview,"29,903",64
-FLORIDA3,Cutler Bay,"43,290",64
-FLORIDA3,Davenport,"17,456",13
-FLORIDA3,DeFuniak Springs,"7,053",27
-FLORIDA3,Delray Beach,"67,780",286
-FLORIDA3,Dunedin,"35,885",29
-FLORIDA3,Eatonville,"2,266",30
-FLORIDA3,Fellsmere,"5,032",3
-FLORIDA3,Florida City,"12,441",285
-FLORIDA3,Gainesville,"147,022","1,085"
-FLORIDA3,Greenacres City,"44,143",108
-FLORIDA3,Gulf Breeze,"6,991",1
-FLORIDA3,Gulfport,"11,618",36
-FLORIDA3,Haines City,"41,035",54
-FLORIDA3,Hialeah Gardens,"22,065",14
-FLORIDA3,Holmes Beach,"3,032",1
-FLORIDA3,Indian Harbour Beach,"9,020",13
-FLORIDA3,Indian Rocks Beach,"3,629",5
-FLORIDA3,Indian Shores,"3,352",0
-FLORIDA3,Juno Beach,"3,868",3
-FLORIDA3,Jupiter Inlet Colony,434,0
-FLORIDA3,Jupiter Island,834,1
-FLORIDA3,Key Biscayne,"14,306",8
-FLORIDA3,Key West,"24,697",87
-FLORIDA3,Kissimmee,"81,967",403
-FLORIDA3,Lake Alfred,"7,649",6
-FLORIDA3,Lake Hamilton,"1,675",2
-FLORIDA3,Lake Helen,"3,005",7
-FLORIDA3,Lake Mary,"16,669",23
-FLORIDA3,Lake Park,"8,959",52
-FLORIDA3,Lake Wales,"16,813",41
-FLORIDA3,Lake Worth,"41,324",302
-FLORIDA3,Leesburg,"33,435",127
-FLORIDA3,Lighthouse Point,"10,512",5
-FLORIDA3,Longboat Key,"7,484",0
-FLORIDA3,Longwood,"17,298",42
-FLORIDA3,Loxatachee Groves,"3,484",11
-FLORIDA3,Lynn Haven,"21,152",30
-FLORIDA3,Madeira Beach,"4,036",13
-FLORIDA3,Maitland,"19,136",24
-FLORIDA3,Mangonia Park,"2,755",26
-FLORIDA3,Marco Island,"16,362",10
-FLORIDA3,Marianna,"7,670",16
-FLORIDA3,Miami,"460,392","2,179"
-FLORIDA3,Miami Gardens,"110,466",458
-FLORIDA3,Miami Lakes,"31,511",32
-FLORIDA3,Miami Shores,"11,476",29
-FLORIDA3,Neptune Beach,"6,914",9
-FLORIDA3,North Miami Beach,"42,574",248
-FLORIDA3,North Palm Beach,"13,082",11
-FLORIDA3,North Port,"93,930",88
-FLORIDA3,North Redington Beach,"1,465",1
-FLORIDA3,Ocala,"70,046",350
-FLORIDA3,Ocean Ridge,"1,845",0
-FLORIDA3,Oldsmar,"14,801",18
-FLORIDA3,Oviedo,"41,656",44
-FLORIDA3,Pahokee,"5,567",63
-FLORIDA3,Palatka,"10,816",29
-FLORIDA3,Palm Bay,"141,137",490
-FLORIDA3,Palm Beach,"9,262",16
-FLORIDA3,Palm Beach Shores,"1,324",1
-FLORIDA3,Palmetto,"13,662",83
-FLORIDA3,Palmetto Bay,"24,245",36
-FLORIDA3,Panama City,"36,646",238
-FLORIDA3,Parker,"4,876",17
-FLORIDA3,Pinellas Park,"53,481",125
-FLORIDA3,Plantation,"98,100",206
-FLORIDA3,Riviera Beach,"39,021",368
-FLORIDA3,Royal Palm Beach,"39,654",63
-FLORIDA3,Safety Harbor,"16,924",22
-FLORIDA3,Sanford,"66,900",363
-FLORIDA3,Sarasota,"58,432",321
-FLORIDA3,Sebastian,"27,445",42
-FLORIDA3,Seminole,"19,201",37
-FLORIDA3,South Bay,"4,891",49
-FLORIDA3,South Miami,"12,106",54
-FLORIDA3,South Palm Beach,"1,454",1
-FLORIDA3,South Pasadena,"5,268",8
-FLORIDA3,Springfield,"8,330",67
-FLORIDA3,St. Cloud,"68,966",130
-FLORIDA3,St. Pete Beach,"8,687",27
-FLORIDA3,St. Petersburg,"264,999","1,642"
-FLORIDA3,Stuart,"20,109",62
-FLORIDA3,Sunny Isles Beach,"21,762",29
-FLORIDA3,Sweetwater,"20,733",21
-FLORIDA3,Tampa,"408,646","1,817"
-FLORIDA3,Tarpon Springs,"26,119",62
-FLORIDA3,Tavares,"21,790",14
-FLORIDA3,Temple Terrace,"27,062",113
-FLORIDA3,Tequesta,"6,128",7
-FLORIDA3,Titusville,"49,970",259
-FLORIDA3,Treasure Island,"6,504",12
-FLORIDA3,Vero Beach,"17,622",8
-FLORIDA3,Village of Pinecrest,"17,963",17
-FLORIDA3,Wauchula,"4,958",14
-FLORIDA3,Wellington,"61,652",80
-FLORIDA3,Westlake,"6,121",4
-FLORIDA3,West Melbourne,"30,057",46
-FLORIDA3,West Palm Beach,"126,427",728
-FLORIDA3,Winter Haven,"59,450",140
-FLORIDA3,Winter Park,"29,853",61
+FLORIDA,Altamonte Springs,"44,956",153
+FLORIDA,Apopka,"60,583",261
+FLORIDA,Arcadia,"7,986",41
+FLORIDA,Astatula,"2,107",4
+FLORIDA,Atlantic Beach,"13,079",21
+FLORIDA,Auburndale,"21,677",47
+FLORIDA,Aventura,"38,317",63
+FLORIDA,Bartow,"20,948",103
+FLORIDA,Bay Harbor Islands,"5,610",2
+FLORIDA,Belleair,"4,568",1
+FLORIDA,Belleair Beach,"1,612",1
+FLORIDA,Belleair Bluffs,"2,277",4
+FLORIDA,Belle Glade,"16,880",224
+FLORIDA,Belleview,"5,881",25
+FLORIDA,Blountstown,"2,275",8
+FLORIDA,Boca Raton,"100,557",172
+FLORIDA,Bowling Green,"2,464",1
+FLORIDA,Boynton Beach,"81,473",340
+FLORIDA,Bradenton,"57,503",258
+FLORIDA,Brooksville,"10,086",43
+FLORIDA,Casselberry,"31,166",88
+FLORIDA,Clewiston,"7,212",11
+FLORIDA,Cocoa,"20,235",219
+FLORIDA,Coral Springs,"135,157",185
+FLORIDA,Crescent City,"1,709",1
+FLORIDA,Crestview,"29,903",64
+FLORIDA,Cutler Bay,"43,290",64
+FLORIDA,Davenport,"17,456",13
+FLORIDA,DeFuniak Springs,"7,053",27
+FLORIDA,Delray Beach,"67,780",286
+FLORIDA,Dunedin,"35,885",29
+FLORIDA,Eatonville,"2,266",30
+FLORIDA,Fellsmere,"5,032",3
+FLORIDA,Florida City,"12,441",285
+FLORIDA,Gainesville,"147,022","1,085"
+FLORIDA,Greenacres City,"44,143",108
+FLORIDA,Gulf Breeze,"6,991",1
+FLORIDA,Gulfport,"11,618",36
+FLORIDA,Haines City,"41,035",54
+FLORIDA,Hialeah Gardens,"22,065",14
+FLORIDA,Holmes Beach,"3,032",1
+FLORIDA,Indian Harbour Beach,"9,020",13
+FLORIDA,Indian Rocks Beach,"3,629",5
+FLORIDA,Indian Shores,"3,352",0
+FLORIDA,Juno Beach,"3,868",3
+FLORIDA,Jupiter Inlet Colony,434,0
+FLORIDA,Jupiter Island,834,1
+FLORIDA,Key Biscayne,"14,306",8
+FLORIDA,Key West,"24,697",87
+FLORIDA,Kissimmee,"81,967",403
+FLORIDA,Lake Alfred,"7,649",6
+FLORIDA,Lake Hamilton,"1,675",2
+FLORIDA,Lake Helen,"3,005",7
+FLORIDA,Lake Mary,"16,669",23
+FLORIDA,Lake Park,"8,959",52
+FLORIDA,Lake Wales,"16,813",41
+FLORIDA,Lake Worth,"41,324",302
+FLORIDA,Leesburg,"33,435",127
+FLORIDA,Lighthouse Point,"10,512",5
+FLORIDA,Longboat Key,"7,484",0
+FLORIDA,Longwood,"17,298",42
+FLORIDA,Loxatachee Groves,"3,484",11
+FLORIDA,Lynn Haven,"21,152",30
+FLORIDA,Madeira Beach,"4,036",13
+FLORIDA,Maitland,"19,136",24
+FLORIDA,Mangonia Park,"2,755",26
+FLORIDA,Marco Island,"16,362",10
+FLORIDA,Marianna,"7,670",16
+FLORIDA,Miami,"460,392","2,179"
+FLORIDA,Miami Gardens,"110,466",458
+FLORIDA,Miami Lakes,"31,511",32
+FLORIDA,Miami Shores,"11,476",29
+FLORIDA,Neptune Beach,"6,914",9
+FLORIDA,North Miami Beach,"42,574",248
+FLORIDA,North Palm Beach,"13,082",11
+FLORIDA,North Port,"93,930",88
+FLORIDA,North Redington Beach,"1,465",1
+FLORIDA,Ocala,"70,046",350
+FLORIDA,Ocean Ridge,"1,845",0
+FLORIDA,Oldsmar,"14,801",18
+FLORIDA,Oviedo,"41,656",44
+FLORIDA,Pahokee,"5,567",63
+FLORIDA,Palatka,"10,816",29
+FLORIDA,Palm Bay,"141,137",490
+FLORIDA,Palm Beach,"9,262",16
+FLORIDA,Palm Beach Shores,"1,324",1
+FLORIDA,Palmetto,"13,662",83
+FLORIDA,Palmetto Bay,"24,245",36
+FLORIDA,Panama City,"36,646",238
+FLORIDA,Parker,"4,876",17
+FLORIDA,Pinellas Park,"53,481",125
+FLORIDA,Plantation,"98,100",206
+FLORIDA,Riviera Beach,"39,021",368
+FLORIDA,Royal Palm Beach,"39,654",63
+FLORIDA,Safety Harbor,"16,924",22
+FLORIDA,Sanford,"66,900",363
+FLORIDA,Sarasota,"58,432",321
+FLORIDA,Sebastian,"27,445",42
+FLORIDA,Seminole,"19,201",37
+FLORIDA,South Bay,"4,891",49
+FLORIDA,South Miami,"12,106",54
+FLORIDA,South Palm Beach,"1,454",1
+FLORIDA,South Pasadena,"5,268",8
+FLORIDA,Springfield,"8,330",67
+FLORIDA,St. Cloud,"68,966",130
+FLORIDA,St. Pete Beach,"8,687",27
+FLORIDA,St. Petersburg,"264,999","1,642"
+FLORIDA,Stuart,"20,109",62
+FLORIDA,Sunny Isles Beach,"21,762",29
+FLORIDA,Sweetwater,"20,733",21
+FLORIDA,Tampa,"408,646","1,817"
+FLORIDA,Tarpon Springs,"26,119",62
+FLORIDA,Tavares,"21,790",14
+FLORIDA,Temple Terrace,"27,062",113
+FLORIDA,Tequesta,"6,128",7
+FLORIDA,Titusville,"49,970",259
+FLORIDA,Treasure Island,"6,504",12
+FLORIDA,Vero Beach,"17,622",8
+FLORIDA,Village of Pinecrest,"17,963",17
+FLORIDA,Wauchula,"4,958",14
+FLORIDA,Wellington,"61,652",80
+FLORIDA,Westlake,"6,121",4
+FLORIDA,West Melbourne,"30,057",46
+FLORIDA,West Palm Beach,"126,427",728
+FLORIDA,Winter Haven,"59,450",140
+FLORIDA,Winter Park,"29,853",61
 GEORGIA,Acworth,"22,364",6
 GEORGIA,Adairsville,"5,107",6
 GEORGIA,Albany,"66,169",545
